@@ -1,7 +1,7 @@
 # Packet Tracer - Configure Secure Passwords and SSH
 
 ![Network Diagram](https://github.com/user-attachments/assets/72b67c30-3af8-4d4e-ade2-bd2e4127b40d)
-## Project Overview
+## Overview
 
 This project involves configuring a network setup with secure password and SSH protocols to ensure encrypted and secure remote access.
 
